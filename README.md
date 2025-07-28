@@ -47,9 +47,6 @@ Applications
 - CAM Path Planning
 - Educational Geometry Tooling
 
-License
-
-MIT License © 2025 Vishnunand Pillai
 
 Links
 
